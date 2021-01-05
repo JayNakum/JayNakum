@@ -1,4 +1,9 @@
+# Jay Nakum
+
 ### Hi there 👋
+#### My Projects:
+1. Website
+2. Expense Planner (work in progress)
 
 <!--
 **JayNakum/JayNakum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
