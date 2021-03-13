@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 #### My Projects:
-1. Website
+1. [Website](https://jaynakum.live/)
 2. Expense Planner (work in progress)
 3. LiViD (work in progress) (college project)
 
