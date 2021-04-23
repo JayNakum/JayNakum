@@ -1,7 +1,7 @@
 # [Jay Nakum](https://jaynakum.github.io/)
 
-### Hi there 👋
-#### My Projects:
+### Ello there 👋
+## My Projects:
 1. [Website](https://jaynakum.live/)
 2. [LiViD](https://github.com/JayNakum/LiViD) (work in progress) (college project)
 
