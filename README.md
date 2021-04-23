@@ -2,7 +2,7 @@
 
 ### Ello there 👋
 ## My Projects:
-1. [Website](https://jaynakum.live/)
+1. [My Website](https://github.com/JayNakum/JayNakum.github.io)
 2. [LiViD](https://github.com/JayNakum/LiViD) (work in progress) (college project)
 
 <!--
