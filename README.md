@@ -1,9 +1,9 @@
-# Jay Nakum
+# [Jay Nakum](https://jaynakum.github.io/)
 
 ### Hi there 👋
 #### My Projects:
 1. [Website](https://jaynakum.live/)
-2. LiViD (work in progress) (college project)
+2. [LiViD](https://github.com/JayNakum/LiViD) (work in progress) (college project)
 
 <!--
 **JayNakum/JayNakum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
