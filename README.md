@@ -7,9 +7,9 @@
 
 <br/>**_NOTE:_** Do **NOT** use my code without my permission
 
-###Contact Me:
-[Website](https://jaynakum.live/)
-[Email](contact.jaynakum@gmail.com)
+### Contact Me:
+[Website](https://jaynakum.live/)  
+[Email](contact.jaynakum@gmail.com)  
 [Twitter](https://twitter.com/JayNakum_)
 
 <!--
