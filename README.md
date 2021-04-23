@@ -3,7 +3,10 @@
 ### Ello there 👋
 ## My Projects:
 1. [My Website](https://github.com/JayNakum/JayNakum.github.io)
-2. [LiViD](https://github.com/JayNakum/LiViD) (work in progress) (college project)
+2. [LiViD](https://github.com/JayNakum/LiViD) (work in progress) (college project)  <br/>
+**_NOTE:_** Do **NOT** use my code without my permission
+
+(mailto:contact.jaynakum@gmail.com)
 
 <!--
 **JayNakum/JayNakum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
