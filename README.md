@@ -8,9 +8,9 @@
 <br/>**_NOTE:_** Do **NOT** use my code without my permission
 
 ### Contact Me:
-[Website](https://jaynakum.live/)  
-[Email](contact.jaynakum@gmail.com)  
-[Twitter](https://twitter.com/JayNakum_)
+[Website](https://jaynakum.live/)/
+[Email](contact.jaynakum@gmail.com)/
+[Twitter](https://twitter.com/JayNakum_)/
 
 <!--
 **JayNakum/JayNakum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
