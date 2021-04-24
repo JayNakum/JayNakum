@@ -3,7 +3,7 @@
 ### Ello there 👋
 ## My Projects:
 1. [My Website](https://github.com/JayNakum/JayNakum.github.io)
-2. [LiViD](https://github.com/JayNakum/LiViD) (work in progress) (college project)
+2. LiViD (work in progress) (college project)
 
 <br/>**_NOTE:_** Do **NOT** use my code without my permission
 
