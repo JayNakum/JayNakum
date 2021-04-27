@@ -1,7 +1,8 @@
 # [Jay Nakum](https://jaynakum.github.io/)
 
 ### Ello there 👋
-In this repository you can find all my projects (closed source). You can have a look!
+In this repository you can find all my projects (closed source).  
+### Have a look!
 ## My Projects:
 1. [My Website](https://github.com/JayNakum/JayNakum.github.io)
 2. LiViD (work in progress) (college project)
