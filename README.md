@@ -1,29 +1,19 @@
-# [Jay Nakum](https://jaynakum.github.io/)
-
-### Ello there 👋
-In this repository you can find all my projects (closed source).  
-### Have a look!
-## My Projects:
-1. [My Website](https://github.com/JayNakum/JayNakum.github.io)
-2. LiViD (college project)
-
-<br/>**_NOTE:_** Do **NOT** use my code without my permission, if you want any help contact me.
-
-### Contact Me:
-[Website](https://jaynakum.live/)  
-[Email](contact.jaynakum@gmail.com)  
-[Twitter](https://twitter.com/JayNakum_)
+# LiViD
+### Developed by Jay Nakum.
+A live stream app developed in [flutter](https://flutter.dev/). 
+The streaming functionality is implemented through [agora](https://www.agora.io/) and the datebase and all is done using [firebase](https://firebase.google.com/).
 
 <!--
-**JayNakum/JayNakum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Getting Started
 
-Here are some ideas to get you started:
+This project is a starting point for a Flutter application.
 
-- 🔭 I’m currently working on my website
-- 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on flutter projects
-- 🤔 I’m looking for help with flutter
-- 💬 Ask me about flutter
-- 📫 How to reach me: contact.jaynakum@gmail.com
-- 😄 Pronouns: Jay
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 -->
