@@ -1,6 +1,6 @@
-![Jay Nakum Header](https://github.com/JayNakum/JayNakum/assets/45930809/4996f256-0627-424c-b10c-7cb96064c1a2)
+![jay_nakum_header](https://github.com/JayNakum/JayNakum/assets/45930809/d8e36b5f-4513-443f-b81f-35c21eb9bd43)
 
-### Greetings everyone! 
+### Greetings everyone! ✌️
 I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I find joy in optimizing algorithms to achieve the best possible performance.  
 In my free time, you can find me tinkering with different technologies, including GPU architectures and programming and flutter development. When I'm not geeking out over the latest tech, I enjoy playing the guitar.  
 I am always open to collaborate and follow up on suggestions, so please feel free to reach out if you share similar interests!
