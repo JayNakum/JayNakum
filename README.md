@@ -1,5 +1,4 @@
 ![JayNakum](https://github.com/JayNakum/JayNakum/assets/45930809/48e67306-09b4-4469-ac74-eb21ed894c01)
-![JayNakum](https://github.com/JayNakum/JayNakum/assets/45930809/148d7fe5-581d-49b4-a188-cd6e0458da6d)
 
 ### Greetings everyone! ✌️
 I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I find joy in optimizing algorithms to achieve the best possible performance.  
