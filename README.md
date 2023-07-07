@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/JayNakum/JayNakum/assets/45930809/5c5b9dc4-957e-4af5-b392-2248f2abd8ae)
+![Jay Nakum Header](https://github.com/JayNakum/JayNakum/assets/45930809/4996f256-0627-424c-b10c-7cb96064c1a2)
 
 ### Greetings everyone! 
 I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I find joy in optimizing algorithms to achieve the best possible performance.  
@@ -12,13 +12,13 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 
 ### Projects
 
-![HappyFace](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=HappyFace)
-![BitNCrypt](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitNCrypt)
-![OutForDelivery](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OutForDelivery)
-![CppLog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=CppLog)
-![OperatingSystemsProject](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OperatingSystemsProject)
-![LiViD](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=LiViD)
-![eXPe](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=eXPe)
+[![HappyFace](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=HappyFace)](https://github.com/JayNakum/HappyFace)
+[![BitNCrypt](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitNCrypt)](https://github.com/JayNakum/BitNCrypt)
+[![OutForDelivery](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OutForDelivery)](https://github.com/JayNakum/OutForDelivery)
+[![CppLog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=CppLog)](https://github.com/JayNakum/CppLog)
+[![OperatingSystemsProject](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OperatingSystemsProject)](https://github.com/JayNakum/OperatingSystemsProject)
+[![LiViD](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=LiViD)](https://github.com/JayNakum/LiViD)
+[![eXPe](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=eXPe)](https://github.com/JayNakum/eXPe)
 
 ---
 
