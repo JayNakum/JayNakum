@@ -1,4 +1,4 @@
-![jay_nakum_header](https://github.com/JayNakum/JayNakum/assets/45930809/d8e36b5f-4513-443f-b81f-35c21eb9bd43)
+![JayNakum](https://github.com/JayNakum/JayNakum/assets/45930809/d8e36b5f-4513-443f-b81f-35c21eb9bd43)
 
 ### Greetings everyone! ✌️
 I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I find joy in optimizing algorithms to achieve the best possible performance.  
