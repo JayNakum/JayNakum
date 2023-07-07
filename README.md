@@ -1,9 +1,12 @@
+![github-header-image](https://github.com/JayNakum/JayNakum/assets/45930809/5c5b9dc4-957e-4af5-b392-2248f2abd8ae)
+
 ### Greetings everyone! 
 I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I find joy in optimizing algorithms to achieve the best possible performance.  
 In my free time, you can find me tinkering with different technologies, including GPU architectures and programming and flutter development. When I'm not geeking out over the latest tech, I enjoy playing the guitar.  
 I am always open to collaborate and follow up on suggestions, so please feel free to reach out if you share similar interests!
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNakum&layout=donut&exclude_repo=jaynakum.github.io,LearningRayTracing,LearningGPUs,LearningOpenGL,LearningWebGL,LearningCpp,LearningDIP,LearningAI,LearningFlutter,LearningPython,LearningFlask,LearningDBMS,LearningShellScripts,LearningJava,LearningAndroid)
+[![My Resume](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=MyResume)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)
 
 ---
 
@@ -17,15 +20,9 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 ![LiViD](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=LiViD)
 ![eXPe](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=eXPe)
 
-
 ---
 
-### Checkout My Resume
-[![My Resume](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=MyResume)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)
-
----
-
-### Certificates
+### Achievements and Certificates
 - [NPTEL: GPU Architectures and Programming](https://internalapp.nptel.ac.in/noc/Ecertificate/?q=NPTEL23CS61S3357054004192946)
 - [edX: UCSD Computer Graphics](https://courses.edx.org/certificates/3e47add62a6b45269149bf91b91f1399)
 - [Udemy: Flutter - The Complete Guide](https://www.udemy.com/certificate/UC-2fce7723-1cc7-403d-a54b-09dbd5cd495e/)
