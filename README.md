@@ -7,6 +7,19 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 
 ---
 
+### Projects
+
+![HappyFace](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=HappyFace)
+![BitNCrypt](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitNCrypt)
+![OutForDelivery](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OutForDelivery)
+![CppLog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=CppLog)
+![OperatingSystemsProject](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OperatingSystemsProject)
+![LiViD](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=LiViD)
+![eXPe](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=eXPe)
+
+
+---
+
 ### Checkout My Resume
 [![My Resume](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=MyResume)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)
 
