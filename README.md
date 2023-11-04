@@ -1,9 +1,10 @@
 [![JayNakum](https://github.com/JayNakum/JayNakum/assets/45930809/48e67306-09b4-4469-ac74-eb21ed894c01)](https://jaynakum.github.io/)
 
 ### Greetings everyone! ✌️
-I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I find joy in optimizing algorithms to achieve the best possible performance.  
-In my free time, you can find me tinkering with different technologies, including GPU architectures and programming and flutter development. When I'm not geeking out over the latest tech, I enjoy playing the guitar.  
-I am always open to collaborate and follow up on suggestions, so please feel free to reach out if you share similar interests!
+I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I like thinking logically and I find joy in solving logical problems and optimizing algorithms to achieve the best possible performance.  
+I love the idea of interacting with hardware from the software point of view, hence the interest in C/C++ & CUDA; and I love watching interesting visual outputs on screen, hence computer graphics!  
+In my free time, you can find me tinkering with low level game engines and ray tracers. When I'm not geeking out over the latest tech, I enjoy playing my guitar.  
+I am always open to collaborate and follow up on suggestions, so please feel free to reach out if you share similar interests. Let's connect and see what we can achieve together!  
 
 [![My Resume](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=MyResume)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNakum&layout=donut&exclude_repo=jaynakum.github.io,LearningRayTracing,LearningGPUs,LearningOpenGL,LearningWebGL,LearningCpp,LearningDIP,LearningAI,LearningFlutter,LearningPython,LearningFlask,LearningDBMS,LearningShellScripts,LearningJava,LearningAndroid)
