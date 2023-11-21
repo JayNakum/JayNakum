@@ -7,7 +7,7 @@ In my free time, you can find me tinkering with low level game engines and ray t
 I am always open to collaborate and follow up on suggestions, so please feel free to reach out if you share similar interests. Let's connect and see what we can achieve together!  
 
 [![My Resume](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=MyResume)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNakum&layout=donut&exclude_repo=jaynakum.github.io,LearningRayTracing,LearningGPUs,LearningOpenGL,LearningWebGL,LearningCpp,LearningDIP,LearningAI,LearningFlutter,LearningPython,LearningFlask,LearningDBMS,LearningShellScripts,LearningJava,LearningAndroid)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNakum&layout=donut&exclude_repo=LearningDirectX,LearningNLP,LearningRayTracing,LearningGPUs,LearningOpenGL,LearningWebGL,LearningCpp,LearningDIP,LearningAI,LearningFlutter,LearningPython,LearningFlask,LearningDBMS,LearningShellScripts,LearningJava,LearningAndroid)
 
 ---
 
