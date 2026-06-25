@@ -9,23 +9,6 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 [![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=blog)](https://jaynakum.github.io/blog/) [![My Resume](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=MyResume)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)  
 ---
 
-### Projects
-
-[![Vibrato](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=Vibrato)](https://github.com/JayNakum/Vibrato)
-[![BitsApriori](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitsApriori)](https://github.com/JayNakum/BitsApriori)
-[![Clef](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=Clef)](https://github.com/JayNakum/Clef)
-[![HappyFace](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=HappyFace)](https://github.com/JayNakum/HappyFace)
-[![BitNCrypt](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitNCrypt)](https://github.com/JayNakum/BitNCrypt)
-[![OutForDelivery](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OutForDelivery)](https://github.com/JayNakum/OutForDelivery)
-[![CppLog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=CppLog)](https://github.com/JayNakum/CppLog)
-[![OperatingSystemsProject](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OperatingSystemsProject)](https://github.com/JayNakum/OperatingSystemsProject)
-[![LiViD](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=LiViD)](https://github.com/JayNakum/LiViD)
-[![eXPe](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=eXPe)](https://github.com/JayNakum/eXPe)
-
-[view more](https://github.com/JayNakum?tab=repositories)
-
----
-
 ### Achievements and Certificates
 - [NPTEL: GPU Architectures and Programming](https://internalapp.nptel.ac.in/noc/Ecertificate/?q=NPTEL23CS61S3357054004192946)
 - [edX: UCSD Computer Graphics](https://courses.edx.org/certificates/3e47add62a6b45269149bf91b91f1399)
