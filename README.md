@@ -1,12 +1,18 @@
-### Greetings everyone! ✌️
+[![jaynakum.github.io](./assets/header.png)](https://jaynakum.github.io/)
+
+## About Me
 I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I like thinking logically and I find joy in solving logical problems and optimizing algorithms to achieve the best possible performance.  
 I love the idea of interacting with hardware from the software point of view, hence the interest in C/C++ & CUDA; and I love watching interesting visual outputs on screen, hence computer graphics!  
 In my free time, you can find me tinkering with low level game engines and ray tracers. When I'm not geeking out over the latest tech, I enjoy playing my guitar.  
-I am always open to collaborate and follow up on suggestions, so please feel free to reach out if you share similar interests. Let's connect and see what we can achieve together!  
+I am always open to collaborate and follow up on suggestions, so please feel free to reach out if you share similar interests. Let's connect and see what we can achieve together!
+
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge&logo=overleaf)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)
+[![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum)
+[![github.com/JayNakum](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayNakum) 
+[![artstation.com/jaynakum](https://img.shields.io/badge/ArtStation-grey?style=for-the-badge&logo=artstation)](https://www.artstation.com/jaynakum) 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNakum&layout=donut&exclude_repo=LearningDirectX,LearningNLP,LearningRayTracing,LearningGPUs,LearningOpenGL,LearningWebGL,LearningCpp,LearningDIP,LearningAI,LearningFlutter,LearningPython,LearningFlask,LearningDBMS,LearningShellScripts,LearningJava,LearningAndroid)
 
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=blog)](https://jaynakum.github.io/blog/) [![My Resume](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=MyResume)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)  
 ---
 
 ### Achievements and Certificates
@@ -14,12 +20,3 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 - [edX: UCSD Computer Graphics](https://courses.edx.org/certificates/3e47add62a6b45269149bf91b91f1399)
 - [Udemy: Flutter - The Complete Guide](https://www.udemy.com/certificate/UC-2fce7723-1cc7-403d-a54b-09dbd5cd495e/)
 - [Trinity London: Grade 4 - Music Theory](https://drive.google.com/file/d/1S-b58wIceYXIlX24bubJy8Z2aT2lQV2d/view?usp=sharing)
-
----
-
-### Let's Connect
-[![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum)
-[![twitter.com/JayNakum_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JayNakum_)
-[![youtube.com/@nakumjay](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nakumjay)
-[![jaynakum.itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jaynakum.itch.io)
-[![play.google.com/store/apps/dev?id=4704016422007513891](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=4704016422007513891)
