@@ -6,10 +6,11 @@ I love the idea of interacting with hardware from the software point of view, he
 In my free time, you can find me tinkering with low level game engines and ray tracers. When I'm not geeking out over the latest tech, I enjoy playing my guitar.  
 I am always open to collaborate and follow up on suggestions, so please feel free to reach out if you share similar interests. Let's connect and see what we can achieve together!
 
-[![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge&logo=overleaf)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)
-[![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum)
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge&logo=overleaf)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf) 
+[![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum) 
 [![github.com/JayNakum](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayNakum) 
 [![artstation.com/jaynakum](https://img.shields.io/badge/ArtStation-grey?style=for-the-badge&logo=artstation)](https://www.artstation.com/jaynakum) 
+[![instagram.com/0xart3d](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=DD2A7B)](https://www.instagram.com/0xart3d) 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNakum&layout=donut&exclude_repo=LearningDirectX,LearningNLP,LearningRayTracing,LearningGPUs,LearningOpenGL,LearningWebGL,LearningCpp,LearningDIP,LearningAI,LearningFlutter,LearningPython,LearningFlask,LearningDBMS,LearningShellScripts,LearningJava,LearningAndroid)
 
